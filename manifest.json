@@ -1,0 +1,19 @@
+{
+  "latest": "1.0.35",
+  "releases": {
+    "1.0.35": {
+      "js_url": "https://rohit212002.github.io/gg-machine-ota/1.0.35/index.android.bundle",
+      "js_sha256": "d4ed1670c620b7f8533bcf05686ccfc7d2fbf7787566df69f13814d70724d99f",
+      "min_apk": "0.1.0",
+      "size": 1334655,
+      "built_at": "2026-08-06T18:47:58.747Z"
+    },
+    "0.2.1": {
+      "js_url": "https://rohit212002.github.io/gg-machine-ota/0.2.1/index.android.bundle",
+      "js_sha256": "d4ed1670c620b7f8533bcf05686ccfc7d2fbf7787566df69f13814d70724d99f",
+      "min_apk": "0.1.0",
+      "size": 1334655,
+      "built_at": "2026-08-06T18:47:58.747Z"
+    }
+  }
+}
