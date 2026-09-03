@@ -61,6 +61,26 @@
         "raw/keep.xml"
       ],
       "assets_base": "https://rohit212002.github.io/gg-machine-ota/1.0.38"
+    },
+    "1.0.39": {
+      "js_url": "https://rohit212002.github.io/gg-machine-ota/1.0.39/index.android.bundle",
+      "js_sha256": "62ad85a3140b4f3d143bd6d93f2fd08e5f240448f2841127d92e25139f72a3ed",
+      "min_apk": "0.1.0",
+      "size": 1358331,
+      "built_at": "2026-09-03T10:11:22.106Z",
+      "assets": [
+        "drawable-mdpi/src_assets_coffeed.png",
+        "drawable-mdpi/src_assets_default_product_image.png",
+        "drawable-mdpi/src_assets_gograb.png",
+        "drawable-mdpi/src_assets_info.png",
+        "drawable-mdpi/src_assets_paymentfailure.gif",
+        "drawable-mdpi/src_assets_paymentsuccess.gif",
+        "drawable-mdpi/src_assets_serverdown.png",
+        "drawable-mdpi/src_assets_support_qr.png",
+        "drawable-mdpi/src_assets_tomandjerrysad.gif",
+        "raw/keep.xml"
+      ],
+      "assets_base": "https://rohit212002.github.io/gg-machine-ota/1.0.39"
     }
   }
 }
